@@ -18,4 +18,4 @@ This repository contains the design and simulation of a high-frequency **LC-Tank
 
 ## Repository Content
 * `/docs`: Full technical report (Italian) with schematics, design equations, and simulation results.
-* `/images`: Screenshots of the ADS schematic and output waveforms.
+
